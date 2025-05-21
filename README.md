@@ -1,5 +1,5 @@
-# LO_Agent_Bootcamp
-Lonely Octopus AI Agent Bootcamp
+# LO_Agent
+Lonely Octopus AI Agent 
 The file LO_Week2_code_assignment.py is written using Streamlit. 
 It may be run from a terminal using the command: streamlit run LO_Week2_code_assignment.py
 This launches a window entitled "Research Assistant".  
